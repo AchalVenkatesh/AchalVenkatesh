@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AchalVenkatesh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer science engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Full stack development
+- 💞️ Discovering various technologies by buiding small projects
+- I wish to contribute to the open source community as much as possible
 - 📫 How to reach me 
 
 <!---
